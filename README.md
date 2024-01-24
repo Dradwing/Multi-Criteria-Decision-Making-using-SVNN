@@ -121,7 +121,7 @@ vg vg g g vg g
 0.1 0.2
 0.1 0.2
 ```
-## Sample Input
+## Sample Output
 
 ### Output.txt
 
